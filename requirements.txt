@@ -1,1 +1,17 @@
+# Core libraries for analysis
+pandas
+numpy
+matplotlib
+seaborn
 
+# Natural Language Processing
+nltk
+textblob
+
+# Time Series Analysis and Financial Indicators
+TA-Lib
+PyNance
+statsmodels
+
+# For Jupyter notebooks
+notebook
